@@ -36,18 +36,18 @@ epoch为3000，batch为64，训练集采用2000张图片，验证集采用100张
 
 <img src="pics\softmax-Train-Loss.png" alt="softmax-Train-Loss" style="zoom:100%;" />
 
-![softmax-Val-Loss](pics\softmax-Val-Loss.png)
+<img src="pics\softmax-Val-Loss.png" alt="softmax-Val-Loss" style="zoom:100%;" />
 
-![softmax-Train-Accuracy](pics\softmax-Train-Accuracy.png)
+<img src="pics\softmax-Train-Accuracy.png" alt="softmax-Train-Accuracy" style="zoom:100%;" />
 
-![softmax-Val-Accuracy](pics\softmax-Val-Accuracy.png)
+<img src="pics\softmax-Val-Accuracy.png" alt="softmax-Val-Accuracy" style="zoom:100%;" />
 
 ## distance
 
-![distance-Train-Loss](pics\distance-Train-Loss.png)
+<img src="pics\distance-Train-Loss.png" alt="distance-Train-Loss" style="zoom:100%;" />
 
-![distance-Val-Loss](pics\distance-Val-Loss.png)
+<img src="pics\distance-Val-Loss.png" alt="distance-Val-Loss" style="zoom:100%;" />
 
-![distance-Train-Accuracy](pics\distance-Train-Accuracy.png)
+<img src="pics\distance-Train-Accuracy.png" alt="distance-Train-Accuracy" style="zoom:100%;" />
 
-![distance-Val-Accuracy](pics\distance-Val-Accuracy.png)
+<img src="pics\distance-Val-Accuracy.png" alt="distance-Val-Accuracy" style="zoom:100%;" />
